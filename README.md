@@ -9,6 +9,7 @@ GUI translation files for Synthesizer V Studio.
 #### Translations Contributed by the Community
 
 * Traditional Chinese (`zh-tw`)
+* Esperanto (`eo`)
 
 ## Contributing
 
